@@ -1,0 +1,13 @@
+Package: rladiesgnv
+Title: Gets you the pretty colors from the R Ladies palette
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Javiera",
+           family = "Rudolph",
+           role = c("aut", "cre"),
+           email = "javirudolph@outlook.com")
+Description: This is a simple package with one function. It was created as part of a tutorial for the R Ladies Gainesville meeting on April 29, 2019.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
