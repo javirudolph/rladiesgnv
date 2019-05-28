@@ -6,6 +6,7 @@ rladiesgnv
 <!-- badges: start -->
 <!-- badges: end -->
 The goal of rladiesgnv is to encourage a strong and supportive community of R users in Gainesville, FL.
+This package was created for our meetup in creating packages. You can find the tutorial/presentation [here](https://javirudolph.github.io/RLadies-Gainesville-FL/20190429-Rudolph-packages/apr29presentation.html#1)
 
 Installation
 ------------
